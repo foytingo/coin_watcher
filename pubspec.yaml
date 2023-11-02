@@ -1,0 +1,29 @@
+name: coin_watcher
+description: Current coin prices
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  http: ^1.1.0
+  loading_animation_widget: ^1.2.0+4
+  intl: ^0.18.1
+  fl_chart: ^0.64.0
+  flutter_riverpod: ^2.4.5
+  sqflite: ^2.3.0
+  path: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+
