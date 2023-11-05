@@ -4,6 +4,7 @@
 This is a cross-platform app that is made with Flutter. With this app, you can find the current crypto prices and you can add them to your favorite list. You track easly.
 
 You can download and run without any settings like the API key.
+Or you can download it from [Apple AppStore](https://apps.apple.com/us/app/coin-watcher-cryptocoin-price/id6471106834 "Apple AppStore") or[ Google PlayStore](https://play.google.com/store/apps/details?id=com.muratbaykor.coin_watcher "Google PlayStore").
 
 #### Used Public APIs
 [CoinCap API 2.0 ](https://docs.coincap.io/)for current and hystorical crypto coin prices
